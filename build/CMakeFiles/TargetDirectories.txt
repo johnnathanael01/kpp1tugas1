@@ -1,0 +1,3 @@
+/home/john/kpp1/build/CMakeFiles/app.dir
+/home/john/kpp1/build/CMakeFiles/edit_cache.dir
+/home/john/kpp1/build/CMakeFiles/rebuild_cache.dir
